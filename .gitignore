@@ -21,3 +21,17 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+*.lock
+*.package-lock
+/node_modules
+/.pnp
+.pnp.js
+.yarn
+.pnp
+.pnp.js
+yarn.lock
+package-lock.json
+yarn.lock
+*.env
+*generated.ts
+*.generated.*
